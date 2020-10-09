@@ -1,6 +1,6 @@
 import pygame
 import numpy as np
-#131
+
 PEACH = (255, 175, 128)
 GREEN = (0, 104, 55)
 WHITE = (255, 255, 255)
